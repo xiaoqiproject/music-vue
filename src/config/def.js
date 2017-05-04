@@ -1,6 +1,3 @@
-/**
- * Created by sioxa on 2016/12/25 0025.
- */
 export const PLAY_MODE_IMG = [
   require('../assets/icon-SINGLE.svg'),
   require('../assets/icon-SEQUENTIAL.png'),

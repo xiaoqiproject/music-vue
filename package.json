@@ -1,8 +1,8 @@
 {
-  "name": "vue-music",
+  "name": "music-vue",
   "version": "1.0.1",
   "description": "A mobile web player",
-  "author": "Sioxas <sioxas@qq.com>",
+  "author": "xiaoqi <xiaoqimyself@qq.com>",
   "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",

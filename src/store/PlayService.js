@@ -1,6 +1,3 @@
-/**
- * Created by sioxa on 2016/12/25 0025.
- */
 import * as def from '../config/def'
 
 export default {
